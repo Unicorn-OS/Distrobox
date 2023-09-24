@@ -1,0 +1,5 @@
+- name: Install distrobox in rpm-ostree
+  community.general.rpm_ostree_pkg:
+    name: distrobox
+    state: present
+  become: true
