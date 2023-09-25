@@ -1,5 +1,5 @@
 # Favorite:
-## Keyboard Binding
+## Keyboard Binding per Distro/Toolbox
 - [How I use distrobox on Fedora Silverblue](https://youtu.be/Q2PrISAOtbY)
 
 Quote:
@@ -10,6 +10,4 @@ Quote:
 
 Relation:
 - Gnome-terminal profiles https://help.gnome.org/users/gnome-terminal/stable/pref-profiles.html.en
-
-Discuss:
-- https://www.reddit.com/r/Fedora/comments/138i9u9/is_it_possible_to_directly_open_a_terminal/
+- https://www.reddit.com/r/gnome/comments/l3ha66/how_to_export_and_import_all_gnome_keyboard/
