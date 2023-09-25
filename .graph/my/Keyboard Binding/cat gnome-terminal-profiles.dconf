@@ -1,0 +1,8 @@
+[/]
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '8ecbc2ec-2729-4462-8273-eb88c903894c']
+
+[:8ecbc2ec-2729-4462-8273-eb88c903894c]
+custom-command='toolbox enter'
+title='toolbox'
+use-custom-command=true
+visible-name='toolbox'
