@@ -10,4 +10,4 @@ Quote:
 
 Relation:
 - Gnome-terminal profiles https://help.gnome.org/users/gnome-terminal/stable/pref-profiles.html.en
-- Gnome Export custom keyboard shortcuts https://discussion.fedoraproject.org/t/how-to-export-save-shortcuts-in-gnome/75199, https://www.reddit.com/r/gnome/comments/l3ha66/how_to_export_and_import_all_gnome_keyboard/
+- Gnome Export custom keyboard shortcuts https://discussion.fedoraproject.org/t/how-to-export-save-shortcuts-in-gnome/75199, 
