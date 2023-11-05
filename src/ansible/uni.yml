@@ -1,0 +1,6 @@
+- name: Setup Distrobox
+  hosts: localhost #, node
+  vars:
+    ansible_become_password: u
+  roles:
+    - Distrobox
