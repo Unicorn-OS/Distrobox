@@ -1,0 +1,1 @@
+- [Install DaVinci Resolve on ANY Linux Distro](https://youtu.be/wmRiZQ9IZfc)
