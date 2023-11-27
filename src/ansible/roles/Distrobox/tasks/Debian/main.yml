@@ -1,0 +1,6 @@
+- name: Install Distrobox & podman
+  ansible.builtin.apt:
+    pkg:
+    - podman
+    - distrobox
+  become: true
