@@ -1,4 +1,4 @@
-- name: Install Distrobox & podman
+- name: Install Distrobox & Podman
   ansible.builtin.apt:
     pkg:
     - podman
