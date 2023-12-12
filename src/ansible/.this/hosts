@@ -1,8 +1,0 @@
-[arm_node]
-10.0.1.149
-10.0.1.151
-
-[arm_node:vars]
-ansible_user=linux
-ansible_become_password=u
-ansible_python_interpreter=/usr/bin/python3

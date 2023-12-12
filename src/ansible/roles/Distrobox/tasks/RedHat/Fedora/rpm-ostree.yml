@@ -3,3 +3,4 @@
     name: distrobox
     state: present
   become: true
+  notify: Reboot

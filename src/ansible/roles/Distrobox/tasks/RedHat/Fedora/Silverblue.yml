@@ -1,0 +1,2 @@
+- name: rpm-ostree
+  ansible.builtin.include_tasks: rpm-ostree.yml

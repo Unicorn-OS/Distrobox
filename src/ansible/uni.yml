@@ -1,5 +1,5 @@
 - name: Setup Distrobox
-  hosts: arm_node #localhost #, node
+  hosts: localhost #, test
   vars:
     ansible_become_password: u
   roles:
