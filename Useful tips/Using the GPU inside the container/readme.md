@@ -1,1 +1,1 @@
-- [https://distrobox.it/useful_tips/#using-the-gpu-inside-the-container](Using the GPU inside the container)
+- [Using the GPU inside the container](https://distrobox.it/useful_tips/#using-the-gpu-inside-the-container)
