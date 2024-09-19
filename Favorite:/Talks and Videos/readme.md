@@ -1,1 +1,2 @@
 - [Why you should be running the MicroOS Desktop](https://youtu.be/lKYLF1tA4Ik)
+- [How to Code with Distrobox on the Steam Deck](https://youtu.be/qic7lmACqPo)
