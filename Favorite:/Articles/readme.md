@@ -1,2 +1,3 @@
 - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
 - [MID (MaXX Interactive Desktop) on Clear Linux via Ubuntu container with Distrobox](https://impsbl.hatenablog.jp/entry/MIDonClearLinuxWithDistrobox_en)
+- [Distrobox is Awesome - Running Window Manager and Desktop environments using Distrobox](https://cloudyday.tech.blog/2022/05/14/distrobox-is-awesome/)
