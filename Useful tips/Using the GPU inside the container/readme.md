@@ -1,1 +1,2 @@
 - [Using the GPU inside the container](https://distrobox.it/useful_tips/#using-the-gpu-inside-the-container)
+- [Using Waydroid inside a Distrobox](https://distrobox.it/useful_tips/#using-waydroid-inside-a-distrobox)
